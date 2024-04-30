@@ -4,6 +4,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+
 ```shell
 npx hardhat accounts
 npx hardhat compile
